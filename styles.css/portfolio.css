@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-primary {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    margin-right: 230px;
+}
+
+.header {
+    background: #FFF8F3;
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+   
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.text-container {
+    text-align: right;
+    margin-top: 216px;
+    margin-right: 230px;
+}
+
+.banner {
+    margin: 0 200px;
+    display: flex;
+    align-items: right;
+}
+
+.banner-title {
+    color: #151414;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.banner-description {}
